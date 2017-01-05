@@ -6,3 +6,6 @@ Third line, added by Alice.
 Forth line added by Bob Orchard, brother of John.
 
 Here is a line edited by Alice and then Bob.
+
+Feature A
+=========
