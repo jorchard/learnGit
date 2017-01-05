@@ -5,4 +5,4 @@ Second line by Alice.
 Third line, added by Alice.
 Forth line added by Bob.
 
-Here is a line added by Alice.
+Here is a line added by Alice and then Bob.
