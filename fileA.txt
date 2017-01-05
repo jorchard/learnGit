@@ -1,2 +1,2 @@
 This is file A.
-Another line, added by Bob.
+Another line, added by Alice and Bob.
