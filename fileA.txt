@@ -8,3 +8,6 @@ Here is a line edited by Alice and then Bob.
 
 Feature A
 =========
+
+
+Relocated repo to a different directory.
