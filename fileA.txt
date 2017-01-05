@@ -5,3 +5,6 @@ Second line by Alice H.
 Forth line added by Bob Orchard, brother of John.
 
 Here is a line edited by Alice and then Bob.
+
+Feature A
+=========
