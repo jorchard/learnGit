@@ -2,3 +2,4 @@ This is file A.
 Another line, added by Alice and Bob.
 Second line by Alice.
 Third line, added by Alice.
+Forth line added by Bob.
