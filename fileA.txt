@@ -1,7 +1,7 @@
 This is file A.
 Subtitle (added by Bob)
 Another line, added by Alice and Bob.
-Second line by Alice.
+Second line by Alice H.
 Third line, added by Alice.
 Forth line added by Bob O.
 
