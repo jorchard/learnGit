@@ -3,6 +3,6 @@ Subtitle (added by Bob)
 Another line, added by Alice and Bob.
 Second line by Alice H.
 Third line, added by Alice.
-Forth line added by Bob O.
+Forth line added by Bob O., brother of John.
 
 Here is a line edited by Alice and then Bob.
